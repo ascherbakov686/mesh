@@ -2,7 +2,6 @@
 
 
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
-import SocketServer
 import random
 from urlparse import urlparse, parse_qs
 
